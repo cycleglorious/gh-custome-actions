@@ -1,5 +1,5 @@
 name: JS action
 description: some description
 runs:
-  using: 'node18'
+  using: 'node20'
   main: 'main.js'
