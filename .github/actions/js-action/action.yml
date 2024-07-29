@@ -1,0 +1,5 @@
+name: JS action
+description: some description
+runs:
+  using: 'node18'
+  main: 'main.js'
